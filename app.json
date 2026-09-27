@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Yu-Gi-Oh Card Collection",
+    "slug": "yugioh-card-collection",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "plugins": [
+      "expo-status-bar"
+    ]
+  }
+}
